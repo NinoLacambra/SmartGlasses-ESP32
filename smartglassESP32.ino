@@ -1,7 +1,4 @@
 /*
-**
-* Heyho!
-* ESP32 Smart Glasses release 2 by HeyTech - Simple Software v0.22
 *
 * ESP32 BLE + OLED ~ 30 mA
 * ESP32 WiFi ~ peaks to 140mA
